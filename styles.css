@@ -1,0 +1,36 @@
+body {
+    background-color: grey;
+}
+h1, h2 {
+    text-align: center;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 20px 15px 5px 5px rgba(0,0,0,0.2);
+}
+#img-div {
+    text-align: center;
+}
+#tribute-info {
+    background-color: rgb(206, 198, 198);
+    margin: 5px 20% 2px 20%;
+    padding: 20px 30px 20px 30px;
+    border-radius: 5px;
+}
+.white-box {
+    background-color: white;
+    margin: 5px 2px 5px 2px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+}
+#footer {
+    text-align: center;
+}
+a:hover {
+    color: blue;
+}
+button:hover {
+    transform: scale(1.1);
+}
